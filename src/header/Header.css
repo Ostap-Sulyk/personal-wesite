@@ -1,0 +1,12 @@
+.nav-container {
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-around;
+
+    margin: 10px;
+    padding: 20px 5px;
+    border-radius: 18px;
+
+}
+.nav-link{
+}
